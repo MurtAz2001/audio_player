@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/audio_player/static/css/main.4c81d5f2.css",
+    "main.js": "/audio_player/static/js/main.ca23e457.js",
+    "index.html": "/audio_player/index.html",
+    "main.4c81d5f2.css.map": "/audio_player/static/css/main.4c81d5f2.css.map",
+    "main.ca23e457.js.map": "/audio_player/static/js/main.ca23e457.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c81d5f2.css",
+    "static/js/main.ca23e457.js"
+  ]
+}
